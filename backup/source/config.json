@@ -1,0 +1,6 @@
+{
+    "application": "DevOps Project",
+    "environment": "Production",
+    "server": "AWS EC2",
+    "status": "Running"
+}
